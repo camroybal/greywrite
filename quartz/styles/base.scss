@@ -9,8 +9,7 @@ html {
   width: 100vw;
 }
 
-body,
-section {
+body {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
@@ -41,6 +40,7 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
+  overflow-wrap: break-word;
   hyphens: auto;
 }
 
@@ -58,6 +58,7 @@ ul,
 }
 
 .math {
+  font-size: 1rem;
   &.math-display {
     text-align: center;
   }
@@ -98,7 +99,7 @@ a {
 
   &.external .external-icon {
     height: 1ex;
-    margin: 0 0.15em;
+    margin: 0 0.2em;
 
     > path {
       fill: var(--dark);
@@ -388,7 +389,7 @@ figure[data-rehype-pretty-code-figure] {
     font-size: 0.9rem;
     padding: 0.1rem 0.5rem;
     border: 1px solid var(--lightgray);
-    width: fit-content;
+    width: max-content;
     border-radius: 5px;
     margin-bottom: -0.5rem;
     color: var(--darkgray);
@@ -512,7 +513,6 @@ img {
   max-width: 100%;
   border-radius: 5px;
   margin: 1rem 0;
-  content-visibility: auto;
 }
 
 p > img + em {
@@ -546,7 +546,7 @@ div:has(> .overflow) {
 
 ul.overflow,
 ol.overflow {
-  max-height: 100%;
+  max-height: 350px;
   overflow-y: auto;
 
   // clearfix
