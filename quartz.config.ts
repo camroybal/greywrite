@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "jzhao.xyz",
+    pageTitle: "greywrite.com",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "jzhao.xyz",
+    baseUrl: "greywrite.com",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -62,7 +62,11 @@ const config: QuartzConfig = {
       Plugin.Poetry(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting(),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, parseTags: false, mermaid: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: false,
+        parseTags: false,
+        mermaid: false,
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "absolute", lazyLoad: true }),

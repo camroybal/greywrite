@@ -9,7 +9,7 @@ enableToc: false
 Welcome to my forest.
 ```
 
-My name is Cam. This space is my little [[digital garden]] for thoughts, research, notes, and other material records that I find might be worth keeping; complete with lots of arboreal references and hidey-holes.
+My name is Cam. This space is my little [[Digital plots|hypertext garden]] for thoughts, feelings, research, notes, and other material records that I find might be worth keeping; complete with lots of arboreal references and hidey-holes.
 
 This space is my way of grabbing ahold of my thoughts with two hands; hanging onto them instead of letting them slip by without observation. I have kept a journal for a number of years now, but as this will be my attempt to building a digital one.
 
@@ -22,8 +22,8 @@ That being said, there is no system of organization or direct navigation within 
 Here are a few places at the entrance to my forest you can explore.
 
 - [[The Footpath in]] - Observations and catalogue of quotes or writing that I find interesting.
-- [[Paths Behind]] - Lessons I have learned and musing over the past. This will include past accomplishments and failures. Though not strictly *behind*, this will also include things I have built or I am working on.
-- [[Library]] - A list of books I am either reading, have read, or want to read. Some of them will have reviews and observations, some wont. It depends.
+- [[Paths]] - Lessons I have learned and musing over the past. This will include past accomplishments and failures. Though not strictly *behind*, this will also include things I have built or I am working on.
+- [[Books|Reading Nook]] - A list of books I am either reading, have read, or want to read. Some of them will have reviews and observations, some wont. It depends.
 
 ```poetry
 -Cam
