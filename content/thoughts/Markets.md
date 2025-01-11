@@ -1,6 +1,6 @@
 ---
 title: Markets
-date: January, 10th, 2025
+date: 2025-01-03
 tags:
   - seed
 ---
