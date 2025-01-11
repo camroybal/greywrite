@@ -13,7 +13,7 @@ My name is Cam. This space is my little [[Digital plots|hypertext garden]] for t
 
 This space is my way of grabbing ahold of my thoughts with two hands; hanging onto them instead of letting them slip by without observation. I have kept a journal for a number of years now, but as this will be my attempt to building a digital one.
 
-I am currently working on developing a deep understanding of [[financial markets]] and their underlying mechanics, both personally and professionally as a desk trader at [Charles Schwab](https://www.schwab.com). Markets serve as an interesting [[Metaphysics |metaphysical]] representation of human behavior as a whole and is worth study from more than a purely [[Economics |economical]] perspective.
+I am currently working on developing a deep understanding of [[Markets|financial markets]] and their underlying mechanics, both personally and professionally as a desk trader at [Charles Schwab](https://www.schwab.com). Markets serve as an interesting [[Metaphysics |metaphysical]] representation of human behavior as a whole and is worth study from more than a purely [[Economics |economical]] perspective.
 
 In a broader sense, I am deeply interested in [[Systems Ontology|systems ontology]] and [[Systems Axiology|axiology]] and how by the process of "[[Understanding|trying to understand]]" develops us good, rational, human beings.
 

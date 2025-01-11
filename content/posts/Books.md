@@ -1,4 +1,7 @@
-**Herein' lies a catalog of books.**
+```poety
+Herein' lies a catalog of books.
+```
+
 Some, I have read. Some I would like to read. And some are somewhere in between. 
 
 Below you will find my list - along with links to thoughts, pages, blog posts, and other relevant observations about them. 
