@@ -2,7 +2,6 @@
 title: Greywrite
 tags:
   - evergreen
-enableToc: false
 ---
 
 ```poetry

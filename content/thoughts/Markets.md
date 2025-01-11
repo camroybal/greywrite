@@ -1,5 +1,5 @@
 ---
-title: "{{title))"
+title: Markets
 date: January, 10th, 2025
 tags:
   - seed
