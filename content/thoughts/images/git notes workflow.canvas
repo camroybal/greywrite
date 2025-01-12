@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"c948cb8988751893","type":"text","text":"Windows Desktop","x":-400,"y":-500,"width":250,"height":60},
+		{"id":"62d745cec021d35d","type":"text","text":"Macbook","x":-60,"y":-500,"width":250,"height":60},
+		{"id":"2eb0dee390568019","type":"text","text":"Linux Workstation","x":280,"y":-500,"width":250,"height":60},
+		{"id":"b8e8a7c4623a9984","type":"text","text":"Github - git pull origin","x":-60,"y":-660,"width":250,"height":60},
+		{"id":"d28963ac93740ca3","type":"text","text":"New Note in Obsidian","x":-220,"y":-300,"width":250,"height":60},
+		{"id":"1080dbb56022378d","type":"text","text":"Editing Existing: notes, config","x":100,"y":-300,"width":250,"height":60},
+		{"id":"f189b2c56f56df5e","type":"text","text":"git status && git add. + git commit -m \"message\"","x":-60,"y":-160,"width":250,"height":90},
+		{"id":"05bde14c84a5c45c","type":"text","text":"Move to other system","x":740,"y":-360,"width":250,"height":60},
+		{"id":"442a8fb48e157b20","type":"text","text":"Commit && push","x":1020,"y":-360,"width":250,"height":60},
+		{"id":"5281da7ad4f0e296","type":"text","text":"conflicts with non-pushed notes on other system or work in progress items","x":440,"y":-390,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"07e7b7b442ea9d93","fromNode":"b8e8a7c4623a9984","fromSide":"bottom","toNode":"c948cb8988751893","toSide":"top"},
+		{"id":"3b5cf8b063621c5a","fromNode":"b8e8a7c4623a9984","fromSide":"bottom","toNode":"62d745cec021d35d","toSide":"top"},
+		{"id":"0bf7b36fe655271c","fromNode":"b8e8a7c4623a9984","fromSide":"bottom","toNode":"2eb0dee390568019","toSide":"top"},
+		{"id":"fae51ba2191236d7","fromNode":"c948cb8988751893","fromSide":"bottom","toNode":"d28963ac93740ca3","toSide":"top"},
+		{"id":"ec8db56a80849be9","fromNode":"62d745cec021d35d","fromSide":"bottom","toNode":"d28963ac93740ca3","toSide":"top"},
+		{"id":"90d26d2c0bc104e6","fromNode":"2eb0dee390568019","fromSide":"bottom","toNode":"d28963ac93740ca3","toSide":"top"},
+		{"id":"c40d60feae870179","fromNode":"62d745cec021d35d","fromSide":"bottom","toNode":"1080dbb56022378d","toSide":"top"},
+		{"id":"7cc66a27951682f6","fromNode":"2eb0dee390568019","fromSide":"bottom","toNode":"1080dbb56022378d","toSide":"top"},
+		{"id":"3ba80e1a023c51b9","fromNode":"d28963ac93740ca3","fromSide":"bottom","toNode":"f189b2c56f56df5e","toSide":"top"},
+		{"id":"1a86fa5a2405b227","fromNode":"1080dbb56022378d","fromSide":"bottom","toNode":"f189b2c56f56df5e","toSide":"top"},
+		{"id":"74eb8a2d824565ab","fromNode":"1080dbb56022378d","fromSide":"right","toNode":"5281da7ad4f0e296","toSide":"left"},
+		{"id":"e65da33a55da1e60","fromNode":"442a8fb48e157b20","fromSide":"top","toNode":"b8e8a7c4623a9984","toSide":"right"},
+		{"id":"d472bdab59b337f7","fromNode":"5281da7ad4f0e296","fromSide":"right","toNode":"05bde14c84a5c45c","toSide":"left"},
+		{"id":"33ff2de0d560e972","fromNode":"05bde14c84a5c45c","fromSide":"right","toNode":"442a8fb48e157b20","toSide":"left"},
+		{"id":"9ece367305b43544","fromNode":"c948cb8988751893","fromSide":"bottom","toNode":"1080dbb56022378d","toSide":"top"}
+	]
+}

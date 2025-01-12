@@ -12,6 +12,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 
 - Hyperion by Dan Simmons
 - The Power of Babel by Dr. John McWhorter
+- Metaphysics of Representation by J. Robert G Williams
 
 ##### Backlog
 
