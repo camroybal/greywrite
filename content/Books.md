@@ -1,3 +1,8 @@
+---
+title: Books
+date:
+---
+
 ```poety
 Herein' lies a catalog of books.
 ```
@@ -10,7 +15,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 
 #### Currently Reading
 
-- Hyperion by Dan Simmons
+- [[Hyperion]] by Dan Simmons
 - The Power of Babel by Dr. John McWhorter
 - Metaphysics of Representation by J. Robert G Williams
 

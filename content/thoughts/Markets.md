@@ -1,6 +1,6 @@
 ---
 title: Markets
-date: 2025-01-03
+date: 2025-01-06
 tags:
   - seed
 ---
@@ -30,7 +30,7 @@ The high level of this logic looks like this
 
 client_price = x
 current_bid = b    #market makers buy at the bid. Participants sell at the bid.
-current_ask = a    #market makers buy at the ask. Participants buy at the ask.
+current_ask = a    #market makers sell at the ask. Participants buy at the ask.
 
 if current_inventory_cost ==< client_price;
 	then sell_shares_to_client;
