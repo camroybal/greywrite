@@ -6,9 +6,9 @@ tags:
 ---
 ### Github
 
-I have spent time working with git in other projects related to little scripts here and there to optimize my work. Admittedly however, I have never really worked on any major projects or contributed to any major projects (something I would like to explore). Most of the challenges I have encountered in managing my personal notes is likely related to a general lack of knowledge of git. I am likely spoiled by non-versioned, set-it-and-forget-it sync systems like icloud and obsidian sync. 
+I have spent time working with git in other projects. Mostly those projects are related to little scripts here and there to optimize my work or to backup my personal system .config files. Admittedly however, I have never really worked on any major projects or contributed to any major projects (something I would like to explore). and most of the challenges I have encountered in managing my personal notes is likely related to a general lack of knowledge of git. I am likely spoiled by non-versioned, set-it-and-forget-it sync systems like icloud and obsidian sync. 
 
-The workflow looks like this:
+Currently, my workflow with git and this blog looks like this:
 
 ![[git notes workflow.png]]
 I have had some challenges with starting notes on one system, moving locations, then trying to continue my work on another system. 
