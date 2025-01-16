@@ -1,6 +1,6 @@
 ---
-title: 
-date: January, 12th, 2025
+title: Managing Notes with Git
+date: 2025-01-12
 tags:
   - seed
 ---
@@ -21,4 +21,4 @@ Instead of spending hours troubleshooting, I simply split the vault between priv
 
 Quartz 4 comes with built in functionality to sync files to established git repository via `npx quartz sync`. This certainly populates my `/content` directory in my github repo, but the commits are non-verbose. I supposed this could be changed after the fact by amending the commit, but this would be an extra step instead of multiple simple notated commits. 
 
-I have not currently reviewed the code for the sync functionality. For now I will simply use commits. My `git remote upstream` is still connected to the original quartz repo to attempt capture of core framework updates. If update logic for the platform is contained with `npx quartz sync` then I will simply occasionally do the suggest npx sync and keep notation separate within individual commits. 
+I have not currently reviewed the code for the sync functionality. I suppose for now, I will simply use commits. My `git remote upstream` is still connected to the original quartz repo to attempt capture of core framework updates. If update logic for the platform is contained with `npx quartz sync` then I will simply occasionally do the suggest npx sync and keep notation separate within individual commits. 

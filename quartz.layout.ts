@@ -65,7 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
       globalGraph: {
         drag: true,
         zoom: true,
-        depth: -1,
+        depth: -2,
         scale: 0.9,
         repelForce: 0.5,
         centerForce: 0.3,

@@ -4,6 +4,7 @@ tags:
   - "#fruit"
 date: 2025-01-07
 ---
+See: [[thoughts/Managing Notes with Git|Managing Notes with Git]]
 
 > "Unplanned hypertext sprawl is wilderness: complex and interesting, but uninviting. Interesting things await us in the thickets, but we may be reluctant to plough through the brush, subject to thorns and mosquitoes." - From [Hypertext](http://www.eastgate.com/garden/Gardens_and_Paths.html) by Mark Bernstein
 

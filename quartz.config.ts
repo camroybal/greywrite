@@ -66,6 +66,7 @@ const config: QuartzConfig = {
         enableInHtmlEmbed: false,
         parseTags: false,
         mermaid: true,
+        wikilinks: true,
       }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
