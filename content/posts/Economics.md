@@ -6,8 +6,6 @@ tags:
 ---
 
 > "Economic interactions in civil society, as we use the term here, have in common that relationships are personal and enduring. As a result, identity and other-regarding preferences (for better or worse) are important motives. In civil society, the primary mechanisms guiding economic interactions are neither governmental regulations nor complete contracts and market-determined prices, but are instead hierarchies of private authority and power, social norms, group identity (including out-group hostility), and reputation." -[Labert Strether](https://www.nakedcapitalism.com/2024/11/civil-society-beyond-markets-and-states-tracking-100-years-of-economic-research.html)
-
-
 # ec·o·nom·ics
 /ˌekəˈnämiks,ˌēkəˈnämiks/
 

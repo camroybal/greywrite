@@ -22,7 +22,7 @@ The word *Ontology* by itself means the "philosophical study of being", as a sub
 
 If we were to take one of the examples of **universals** from above, we could ask "Does the number 3 exist?".  It has *features*, in that it represents something. It has *relationships*, in that its representations rely on other "units within existence" to be present, up to the quantity that it defines. 
 
-Where it gets interesting to think about, however, is in the remaining categories. "The number 3" actually takes on a new property of *being* the state of another set of objects (see: [[Quartz/content/posts/Emergence|emergence]]), but it doesn't seem to have a clear way of having a state of its own outside of "existence as a concept present in reality" and "singular unless in a group". By that logic, it is clearly not a substance and does not fit into the definition of *event* very cleanly. 
+Where it gets interesting to think about, however, is in the remaining categories. "The number 3" actually takes on a new property of *being* the state of another set of objects (see: [[posts/Emergence|emergence]]]), but it doesn't seem to have a clear way of having a state of its own outside of "existence as a concept present in reality" and "singular unless in a group". By that logic, it is clearly not a substance and does not fit into the definition of *event* very cleanly. 
 
 So the question is; **Does the number 3 exist?" 
 
