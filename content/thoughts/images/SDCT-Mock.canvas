@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"a19ecfab3fa065c1","type":"text","text":"Server 1","x":-112,"y":-115,"width":152,"height":75,"color":"2"},
+		{"id":"d103bdea05a58985","type":"text","text":"Data Mutation: Components","x":-161,"y":280,"width":250,"height":60,"color":"5"},
+		{"id":"958ac505b31c93f7","type":"text","text":"Database Interaction","x":-161,"y":153,"width":250,"height":60,"color":"5"},
+		{"id":"7d425a63bbc6af40","type":"text","text":"FastAPI","x":-161,"y":30,"width":250,"height":60,"color":"5"},
+		{"id":"2d07bf3c50e3e8d0","type":"text","text":"Server 2","x":240,"y":150,"width":160,"height":67,"color":"2"},
+		{"id":"a38ee30910c68265","type":"text","text":"Schwab API","x":40,"y":-240,"width":160,"height":75,"color":"6"},
+		{"id":"609d33dcd99461e1","type":"text","text":"Front End: Svelte App","x":-420,"y":-107,"width":240,"height":60,"color":"4"},
+		{"id":"bf660b9af41a88be","type":"text","text":"Client System","x":-700,"y":-102,"width":180,"height":50,"color":"1"},
+		{"id":"b60a111b4b6b9f66","type":"text","text":"PocketBase","x":240,"y":280,"width":160,"height":60,"color":"3"},
+		{"id":"ea3375b9166674b1","type":"text","text":"SQLite","x":240,"y":400,"width":160,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"d013731c73c1a066","fromNode":"a38ee30910c68265","fromSide":"left","toNode":"a19ecfab3fa065c1","toSide":"top"},
+		{"id":"f4db45831995b697","fromNode":"a19ecfab3fa065c1","fromSide":"bottom","toNode":"7d425a63bbc6af40","toSide":"top"},
+		{"id":"d371aa347c1263ea","fromNode":"7d425a63bbc6af40","fromSide":"top","toNode":"a19ecfab3fa065c1","toSide":"bottom"},
+		{"id":"582f6376afc2fb64","fromNode":"a19ecfab3fa065c1","fromSide":"right","toNode":"a38ee30910c68265","toSide":"bottom"},
+		{"id":"be40e8ed8da203a9","fromNode":"609d33dcd99461e1","fromSide":"left","toNode":"bf660b9af41a88be","toSide":"right"},
+		{"id":"b6f2e068f8eeccb0","fromNode":"a19ecfab3fa065c1","fromSide":"left","toNode":"609d33dcd99461e1","toSide":"right"},
+		{"id":"22890c5aa8a9d3e4","fromNode":"7d425a63bbc6af40","fromSide":"right","toNode":"958ac505b31c93f7","toSide":"right"},
+		{"id":"359d682f241b83bd","fromNode":"958ac505b31c93f7","fromSide":"right","toNode":"d103bdea05a58985","toSide":"right"},
+		{"id":"9e499e3e5213cdb7","fromNode":"958ac505b31c93f7","fromSide":"right","toNode":"2d07bf3c50e3e8d0","toSide":"left"},
+		{"id":"998c5e79a9efbbf5","fromNode":"d103bdea05a58985","fromSide":"left","toNode":"7d425a63bbc6af40","toSide":"left"},
+		{"id":"f33984d112d293f6","fromNode":"b60a111b4b6b9f66","fromSide":"right","toNode":"ea3375b9166674b1","toSide":"right"},
+		{"id":"e47f86a1717cb6f5","fromNode":"2d07bf3c50e3e8d0","fromSide":"bottom","toNode":"b60a111b4b6b9f66","toSide":"top"},
+		{"id":"cfd8023b998e3fc7","fromNode":"b60a111b4b6b9f66","fromSide":"top","toNode":"2d07bf3c50e3e8d0","toSide":"bottom"}
+	]
+}
