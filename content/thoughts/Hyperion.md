@@ -4,7 +4,7 @@ date: 2025-01-12
 tags:
   - seed
 ---
-The biggest challenge with any sci-fi book is getting up to speed with the vernacular. Hyperion throws an incredible amount of this type of language at you right from the get go. I was first introduced to the apparent main character "The Consul". He is one of 7 passengers on a "tree ship" headed for the planet Hyperion. As a reader I was juggling understanding this world, why its important, who the players were, and making predictions as to what happens next right from the first page. 
+The biggest challenge with any sci-fi book is getting up to speed with the vernacular. Hyperion throws an incredible amount of this type of language at you right from the get go. I was first introduced to the apparent main character "The Consul". He is one of 7 passengers on a "tree ship" headed for the planet Hyperion. As a reader I was juggling understanding this world, why the planet and setting are important, who the players were, and making predictions as to what happens next right from the first page. 
 
 I would like to mention that there doesn't appear to be chapters in the traditional sense. Instead, outside of descriptions of the tree ship and the main character describing his surroundings, the first major change in pacing for the text happens when it comes to the main characters explaining their own stories as a device to deepen the readers understanding of everyone. 
 
