@@ -18,11 +18,10 @@ In a broader sense, I am deeply interested in [[posts/Systems Ontology|ontology]
 
 That being said, there is no system of organization or direct navigation within these pages. The aim of this site is to allow any properties or structures to be [[posts/Emergence|emergent]] as these thoughts and paths develop. Feel free to meander your way through the links contained here, and enjoy your stay. 
 
-Here are a few places at the entrance to my forest you can explore.
+I update my books list ever so often, but I am a slowish reader. My backlog is also quite long at the moment. Feel free to poke around. 
 
 - [[Books]] - A list of books I am either reading, have read, or want to read. Some of them will have reviews and observations, some wont. It depends.
-- [[Feelings]] - I have a few notes self exploring "feeling". This would be a continuation of my written journal where I explain these things to myself. 
-- [[Projects]] - Things I am working on and some of their associated notes. 
+
 
 ```poetry
 -Cam

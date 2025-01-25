@@ -8,4 +8,4 @@ Emanation, and in this case "emanationism", is a philosophical and theological t
 
 *Note: This area of philosophy has a strong religious flavor. Which, while interesting to read about, is not the focus of "Emanation" as it pertains to my exploration of the subject.* 
 
-The arena that I would like to focus my exploration in was originally built by [[Neoplatonists]], namely Ammonius Saccus and his student Plotinus, as well as Proculs (one of the last of the great "Greek" philosophers), somewhere around the 3rd century AD. 
+The "Emanation" I would like to focus on was originally coined by [[Neoplatonists]], namely Ammonius Saccus and his student Plotinus, as well as Proculs (one of the last of the great "Greek" philosophers), somewhere around the 3rd century AD. 
