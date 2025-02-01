@@ -1,3 +1,9 @@
+---
+title: Making Markets
+date: 2025-01-13
+tags:
+  - seed
+---
 #### Market Makers
 
 Here is how the process of market making works - A investor or trader places an order with their broker dealer, for this example we can consider this as nothing more than an aggregator function in this system. That order flows from participant node (our investor/trader) along the interconnect to the broker dealer. That aggregator node then either sends that order, along with all the others, through to a market maker. Upon receipt of the order, the market maker evaluates the price - "does this client need a specific price or have the designated the order at market price, meaning they will take whatever is available at the the best price available. If the client as designated a price, the market maker compares it to their own inventory of stock or makes a purchase along their own connection on the exchanges (often NASDAQ or an Electronic Trading Network called an ECN or more often, Dark pools) - "are we willing to sell or buy at X price, or can this be bought among our networks for Y price and then given to the client at X price?".
