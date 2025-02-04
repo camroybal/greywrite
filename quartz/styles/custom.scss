@@ -4,7 +4,7 @@
 @use "./variables.scss" as *;
 
 body[data-slug="index"] img {
-  filter: invert(0%);
+  filter: invert(100%);
   opacity: 0.85;
 }
 
@@ -17,11 +17,11 @@ body {
 }
 
 img[src*="banner.svg"] {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 [saved-theme="dark"] body[data-slug="index"] img[src*="banner.svg"] {
-  filter: invert(100%);
+  filter: invert(0%);
 }
 
 body[data-slug="thoughts/craft"] {
