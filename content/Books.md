@@ -18,7 +18,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 
 - [[Hyperion]] by Dan Simmons
 - The Power of Babel by Dr. John McWhorter
-- Russian Folktales by A. N. Afanasyev
+- [[Russian Folktales]] by A. N. Afanasyev
 - 1984 - George Orwell 
 
 ##### To Read
@@ -37,6 +37,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 - Self by Ralph Waldo Emerson 
 - Memories, Dreams, Reflections by C. G. Jung
 - The Cossaks by Lev Nikolayevich Tolstoy 
+- Economics as Religion by Robert Nelson
 
 #### Recent History
 

@@ -3,7 +3,7 @@ title: Greywrite
 tags:
   - evergreen
 ---
-![[banner_header.svg|200]] 
+![[banner.svg|200]]
 
 ```poetry
 Welcome to my forest.
