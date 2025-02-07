@@ -18,7 +18,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 
 - [[Hyperion]] by Dan Simmons
 - The Power of Babel by Dr. John McWhorter
-- [[Russian Folktales]] by A. N. Afanasyev
+- [[thoughts/Russian Folktales|Russian Folktales]] by A. N. Afanasyev
 - 1984 - George Orwell 
 
 ##### To Read

@@ -15,7 +15,7 @@ tags:
 
 I actually think that this definition is `_fair_`.
 
-If this high level view of economics was an "object" that we could place on the table in front of us. We could reasonably use this definition to help us list its properties and *describe* it. This would appear as an object that represents: 
+This term can be observable as an "object" and using this definition, we could list its properties and *describe* it as:
 
 1. The allocation of resources.
 2. Why and how they are obtained, catalogued, stored, and assigned. 
