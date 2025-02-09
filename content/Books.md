@@ -19,7 +19,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 - [[Hyperion]] by Dan Simmons
 - The Power of Babel by Dr. John McWhorter
 - [[thoughts/Russian Folktales|Russian Folktales]] by A. N. Afanasyev
-- 1984 - George Orwell 
+- [[Crime and Punishment]] - Fyodor Dostoevsky
 
 ##### To Read
 
@@ -29,6 +29,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 - The Critique of Pure Reason by Immanuel Kant
 - Apology by Plato
 - Thus Spake Zarathustra by Friedrich Wilhelm Nietzche
+- Beyond Good and Evil by Friedrich Wilhelm Nietzeche
 - Discourse by Epictitus
 - Walden by Henry David Thoreau
 - The Wealth of Nations by Adam Smith
@@ -51,4 +52,5 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 - A Very Private Gentleman by Martin Booth 
 - A Little History of Philosophy by Nigel Warburton 
 - Meditations by Marcus Aurelius 
+- 1984 - George Orwell
 

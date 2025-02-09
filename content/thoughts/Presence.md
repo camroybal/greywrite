@@ -4,8 +4,10 @@ date: 2025-02-06
 tags:
   - seed
 ---
-## The Food Trolly 
-
+#### The Food Trolly 
+``` poetry 
+In office February 6th 2024
+```
 Each day at precisely 1:30pm, Mountain Standard Time, in the primary cafe at my office, the culinary staff role out several carts filled with free to take "healthy snacks" and treats. For ten to fifteen minutes prior to this grand rollout, all manner of employees of all rank and specialty and from all corners of the campus, gather like cattle and wait to be fed. When I can spare the time, I will usually wait with them and hastily grab what I can among the many hands that reach in all at once. It's both exciting to participate in and odd to witness. It breaks the monotony of a day, and one can return to their own corner of the office and boastfully consume their well earned goods in front of their comrades. 
 
 During todays wait-for-the-food-trolly, I met up with an ex-trader colleague of mine named Marcus. We exchanged the normal pleasantries such as "hows life up in that office", "anything new on the trade floor?", etc. As we chatted we decided, why not wait together. The work based conversation quickly withered and he hastily asked how my wife was. I gave the culturally acceptable "she is good, hows yours?", and he returned a swift "she is good as well, man." I like Marcus, and I enjoyed having someone to wait for the cart with, so I asked him about his son. Last I had heard, his son was a handful. I cannot remember exactly how old he is, but he has to be solidly in his toddler years. Marcus's replies often surprise me, and his response was no exception; see, Marcus holds himself like an elite athlete. He played D1 basketball for CU and he still coaches the sport for high school aged kids. His brain is a strategic factory and his is far more observant than he lets on. So when you ask another man about his toddler son, you would almost expect an answer similar to how he answered about his work or about his wife. Simple, plain, "he is getting big", that type of thing. Marcus looks at me, dead in the eye, with a sort of casual focus and said, "My son is good, he is growing to be more articulate, and he cannot see time". 

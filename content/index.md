@@ -21,6 +21,7 @@ That being said, there is no system of organization or direct navigation within 
 
 I update my books list every so often, but I am a slowish reader. My backlog is also quite long at the moment. Feel free to poke around. 
 
+- [[tags/| Paths and Tags]] - Most of what is in this garden is organized by tags. Here is a little index of paths through my garden.  
 - [[Books]] - A list of books I am either reading, have read, or want to read. Some of them will have reviews and observations, some wont. It depends.
 
 

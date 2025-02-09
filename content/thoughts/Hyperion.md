@@ -19,7 +19,7 @@ Five pilgrims on a trip to the mysterious planet called "Hyperion" to meet a god
 
 - Journal 1 - Father Hoyte: Tells the story of a predecessor priest that came in contact with the Shrike and a mysterious people on the planet called the Bikura. The priest dies among the people of the Bikura in a gruesome way and his mysterious affliction was passed on to Father Hoyte. 
 - Journal 2 - Colonel Kassad: Gives his history coming up through the ranks of the FORCE military complex for the ruling government. During his sim training he was haunted by a mysterious woman who he fell in love with.  During an attack by a mysterious outer system race of humans, he crash landed on Hyperion and found the woman again in league with Shrike. The Shrike and the woman revealed their powers to control time. 
-- Journal 3 - Martin Silenious: His story also tells of his upbringing. He is hundreds of years old in this book on account of being frozen before the "old earth" was destroyed. 
+- Journal 3 - Martin Silenious: His story also tells of his upbringing. He is hundreds of years old in this book on account of being frozen before the "old earth" was destroyed. For someone who seems like a pompous and annoying character, you find that his life has had lots of ups and downs throughout his journey.  
 
 
 

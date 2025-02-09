@@ -10,7 +10,7 @@ While many of the world languages are just as dynamic as English, I tend to find
 
 While English is soundly a "Germanic" language, it inherits large volumes of vocabulary from other sources. This concept isn't unique to English, but being that I natively speak it, I find its an easy path to explore. 
 
-### The "Interesting" list
+### An "Interesting" list
 
 #### Quintessential 
 "*Quint*" - From the latin for the number 5. 

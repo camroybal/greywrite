@@ -24,6 +24,10 @@ img[src*="banner.svg"] {
   filter: invert(0%);
 }
 
+.darklight-image {
+  filter: invert(50%);
+}
+
 body[data-slug="thoughts/craft"] {
   & li:has(> img, > video) {
     list-style-type: none;

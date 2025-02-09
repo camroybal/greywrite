@@ -9,7 +9,7 @@ tags:
 
 > "In philosophy, systems theory, science, and art, emergence occurs when a complex entity has properties or behaviors that its parts do not have on their own, and emerge only when they interact in a wider whole." - [Wikipedia](https://en.wikipedia.org/wiki/Emergence) 
 
-It almost sounds funny to say that the basis of the human experience on reality stems from the concept of emergence. The core principles of which seem to be attached to nearly all aspects of science and philosophy. 
+It almost sounds funny to say that the basis of the human experience of reality, and likely consciousness itself, stems from the concept of emergence. The core principles of which seem to be attached to nearly all aspects of science and philosophy. 
 
 Lot's of simple small things, acting together, tend to become big complex things distinctly different and containing different properties than the sum of their parts. So long as those [[posts/Metaphysics|base things]] act in concert within the bounds of some variable ruleset, the resulting [[posts/Systems Ontology|systems]] can vary widely in structure, properties, and complexity. Life itself arising from nonbiological base chemistry is an example of such complexity. Emergence in this way can *cascade* forwards and backwards onto itself. Think about it like this (mind the gaps): 
 
