@@ -1,6 +1,6 @@
 ---
 title: The Poor Optimization of English Phenomes
-date: 2025-02-08
+date: 2025-02-07
 tags:
   - seed
   - language

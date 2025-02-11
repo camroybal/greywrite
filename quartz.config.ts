@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Asar",
         body: "Bricolage Grotesque",
-        code: "Fira Code",
+        code: "Special Elite",
       },
       colors: {
         lightMode: {

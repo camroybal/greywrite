@@ -15,14 +15,14 @@ This space is my way of grabbing ahold of my thoughts with two hands; hanging on
 
 I am currently working on developing a deeper understanding of [[posts/Markets|markets]] and their underlying mechanics, both personally and professionally as a desk trader at [Charles Schwab](https://www.schwab.com). Markets serve as an interesting [[posts/Metaphysics|metaphysical]] representation of human behavior as a whole and is worth study from more than a purely [[posts/Economics|economical]] perspective. 
 
-In a broader sense, I am deeply interested in [[posts/Systems Ontology|ontology]] and [[thoughts/Systems Axiology|axiology]] and how by the process of "[[thoughts/Understanding|trying to understand]]" we develop as good, rational, human beings. While, I am a laymen (at best) in anything I write about here, I know that I would personally find it interesting to see someones process of fleshing out thoughts, exploring ideas and concepts, and building new ones. That's what[[thoughts/sharing notes| I want to share]] here. 
+Additionally, there is something incredibly fascinating to me about human [[thoughts/Language|Language]]. Not only in the spoken and written sense, but also in its history. [[thoughts/Linguistic Determinism|Our very reality]] may very well be rendered according to our ability to send and receive messages verbally and non-verbally; both with other humans and to our internal consciousness and subconsciousness. While I would consider this a more abstract area of study of me, I find it a suitable companion to my other areas of exploration in philosophy and physics.
 
-That being said, there is no system of organization or direct navigation within these pages. The aim of this site is to allow any properties or structures to be [[posts/Emergence|emergent]] as these thoughts and paths develop. Feel free to meander your way through the links contained here, and enjoy your stay. 
+I suppose, in a broader sense, I am deeply interested in [[posts/Systems Ontology|ontology of systems]] and how by the process of "[[thoughts/Understanding|trying to understand]]" we develop as good, rational, human beings. While, I am a laymen (at best) in anything I write about here, I know that I would personally find it interesting to see someones process of fleshing out their thoughts, exploring new ideas, and grappling with difficult concepts. That's what[[thoughts/sharing notes| I want to share]] in the open here. 
 
-I update my books list every so often, but I am a slowish reader. My backlog is also quite long at the moment. Feel free to poke around. 
+All that being said, there is no system of organization or direct navigation within these pages. The aim of this site is to allow any properties or structures to be [[posts/Emergence|emergent]] as these thoughts and paths develop. (see: the graph view on any page)
 
-- [[tags/| Paths and Tags]] - Most of what is in this garden is organized by tags. Here is a little index of paths through my garden.  
-- [[Books]] - A list of books I am either reading, have read, or want to read. Some of them will have reviews and observations, some wont. It depends.
+Feel free to meander your way through the links contained here, and enjoy your stay. 
+
 
 
 ```poetry
@@ -30,3 +30,14 @@ I update my books list every so often, but I am a slowish reader. My backlog is 
 ```
 
 
+
+
+
+
+
+
+P.S.
+
+I update my books list every so often, but I am a slowish reader. My backlog is also quite long at the moment. Feel free to poke around. 
+
+- [[Books]] - A list of books I am either reading, have read, or want to read. Some of them will have reviews and observations, some wont. It depends.

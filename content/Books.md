@@ -16,7 +16,7 @@ Below you will find my list - along with links to thoughts, pages, blog posts, a
 
 #### Currently Reading
 
-- [[Hyperion]] by Dan Simmons
+- [[thoughts/Hyperion|Hyperion]] by Dan Simmons
 - The Power of Babel by Dr. John McWhorter
 - [[thoughts/Russian Folktales|Russian Folktales]] by A. N. Afanasyev
 - [[Crime and Punishment]] - Fyodor Dostoevsky
