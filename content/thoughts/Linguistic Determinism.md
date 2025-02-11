@@ -6,6 +6,10 @@ tags:
 ---
 Also called, Linguistic Relativity; is the idea that Language is a primary component in a humans understand and experience of reality. 
 
+### Language and Reality
+
+> *“Every language is a vast pattern-system, different from others, in which are culturally ordained the forms and categories by which the personality not only communicates, but also analyzes nature, notices or neglects types of relationship and phenomena, channels his reasoning, and builds the house of his consciousness.” - Benjamin Lee Whorf*
+
 There continues to be some debate however about whether a *culture* is the constructor for a groups development and usage of language; and thus the primary influence in world view, or if Language itself has an influence on the cultural development of a group and acts as a lens for a culturuaeistic world view. 
 
 People of different cultures and languages certainly see the world differently in so much as simple interactions with people of other cultures can yield drastic difference in experience and widening of personal perspective. 

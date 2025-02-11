@@ -5,11 +5,12 @@ tags:
   - seed
   - language
 ---
+## Inefficiency in the Script
 
 ᛁᛗᚪᚷᛁᚾᛖ ᚦᛖᚾ ᚪ ᚹᚩᚱᛚᛞ ᚹᚻᛖᚱᛖ ᛖᛝᛚᛁᛋᚻ ᚹᚪᛋ ᚹᚱᛁᛏᛏᛖᚾ ᚹᛁᚦ ᚱᚢᚾᛖᛋ
-(Imagine then a world where english was written with runes)
+>*Imagine then a world where english was written with runes*
 
-Instead the English Language is written using the Latin Script. 
+**Instead the English Language is written using the Latin Script.**
 
 There is a non-zero implementation shortfall in the orthography of English using the latin script vs how it is pronounced. This pronunciation differential arises from the implementation of the script for use with a Germanic language like Anglo Saxon during the 5th-9th Century, and the initial use case of the script in pronouncing Latin phenoms across the Roman Empire. Early versions of Old English were written using *Anglo-Saxon Runes* also known as *"Futhorc"*. 
 

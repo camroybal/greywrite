@@ -53,6 +53,7 @@ body[data-slug="thoughts/craft"] {
   grid-template-columns: 1fr;
   grid-template-rows: min-content min-content min-content min-content;
   align-items: center;
+  height: fit-content !important;
 
   .page-title {
     grid-area: 1 / 1 / 2 / 3;

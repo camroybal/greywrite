@@ -7,6 +7,7 @@ tags:
 
 > *"Understanding is a protean concept in philosophy, and the desire for understanding is pervasive in everyday life. Scientists take it as their goal to understand the world and how it works, teachers and parents hope to transmit understanding to their students and children, and from a political and social point of view we often strive for mutual understanding." - [Stanford Philosophical Encyclopedia Blog Entry May 6, 2021](https://plato.stanford.edu/entries/understanding/) by [Dr. Stephen R. Grimm](http://www.stephenrgrimm.com)
 
+### Whats the point?
 
 I have gone back and forth, and will likely continue to deliberate towards, wither or not I want or care to *understand* what it means to *understand*. I am somewhat contented in my own philosophical exploration (for which I am vastly under-qualified). The human experience of reality is infinitely complex already. I am not sure if the scope of my own philosophy needs to include a "why do I understand or not understand?". The key word in that sentence being the "why". Then again, the whole idea of "why" is sort of central to philosophy anyways is it not? 
 
