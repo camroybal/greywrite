@@ -4,7 +4,7 @@ date: 2025-01-05
 tags:
   - seed
 ---
->“Every man has two deaths, when he is buried in the ground and the last time someone says his name. In some ways men can be immortal.”  ― Ernest Hemingway
+>*“Every man has two deaths, when he is buried in the ground and the last time someone says his name. In some ways men can be immortal.”  ― Ernest Hemingway*
 
 Growing up, and earlier than normally expected, I had some semblance of anxiety over the concept of death. I was raised Catholic, though I am somewhat of an non-religious/religious epistemological wanderer now days. I had all the pieces in place to be contented with the concepts of death, being, afterlife, etc. but it eluded me anyways and I worried about it. 
 
@@ -21,16 +21,16 @@ All people develop a relationship with death over the course of their lives. It'
 
 I was once a part of a group of three friends. We three were not the best-of-friends, but we were good friends. 
 
-Of the three of us, I am all that remains. Some years ago, she died in tragedy. With her passing the ternion was broken. He and I faded apart in the years shortly thereafter. This past year, I received word that he too had died, succumbing to some form of madness and leaving by his own hand. 
+Of the three of us, I am all that remains. Some years ago, she died in tragedy. With her passing our little ternion was broken. He and I faded apart in the years shortly thereafter. This past year, I received word that he too had died, succumbing to a form of madness and leaving Earth by his own hand. 
 
-I was close with them individually each in different ways, and they were close to each other in different ways too. The years I spent with them were my more formative years and because of this, they are part of me now and I will carry them forever. 
+I was personally close with them individually, each in different ways; and they were close to each other in different ways too. The years I spent with them were my more formative years and because of this, they are part of me now and I will carry them forever. 
 
 He was smarter than me; a master of machines. 
 She was kinder than me; more spirit then woman. 
 He was tougher than me; an outdoorsman and competitor. 
 She was a deeper thinker than me; a seer of the magic present in the world. 
 
-We had adventures together and they taught me things. Our three lives circled each other  and I think of my memories of them with great fondness. 
+We had adventures together and they taught me things. Our three lives circled each other and I think of my memories of them with great fondness. 
 
 There were other people in my life at the time that I would consider closer friends or some that were more distant friends, but this group of two other people fit perfectly, somewhere inside. I would venture to say that I loved them and I like to think that they loved me. 
 

@@ -4,4 +4,5 @@ date: "2025-02-08"
 tags:
   - seed
 ---
-Proto
+![[thoughts/images/protoindo.png]]
+

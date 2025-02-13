@@ -8,7 +8,7 @@ By A. N. Afanasyev
 
 ## Culture
 
-It's readily apparent, especially during the reading of these short stories, that human beings of different cultures experience reality in utterly distinct ways. This is likely where the term "Culture Shock" comes from. There is some degree of research on this concept under the umbrella of [[thoughts/Linguistic Determinism|Linguistic Determinism]]. 
+It's readily apparent, especially during the reading of these short stories, that human beings of different cultures experience reality in utterly distinct ways. This is likely where the term "Culture Shock" comes from. There is some degree of research on this concept under the umbrella of [[posts/Linguistic Determinism|Linguistic Determinism]]. 
 
 The short stories presented in this book can be both jarring and casual in their presentation of life and death. While the settings and scenery are *fantastical*, there is a salient grey undertone that cuts through the fiction that represents the harshness and bitterness of a Russian's life during that time. 
 
