@@ -11,7 +11,7 @@ Welcome to my forest.
 
 My name is Cam. This is my little [[posts/Digital plots|hypertext garden]] for thoughts, feelings, research, notes, and other various musings that I find might be worth keeping; complete with lots of arboreal references and hidey-holes.
 
-This space is my way of grabbing ahold of my thoughts with two hands; hanging onto them instead of letting them slip by without observation. I have kept a journal for a number of years now, but as this will be my attempt to building a digital version. 
+This space is my way of grabbing ahold of my thoughts with two hands; hanging onto them instead of letting them slip by without observation. I have kept a journal for a number of years now, but this will be my attempt to building a digital version. 
 
 I am currently working on developing a deeper understanding of [[posts/Markets|markets]] and their underlying mechanics, both personally and professionally as a desk trader at [Charles Schwab](https://www.schwab.com). Markets serve as an interesting [[posts/Metaphysics|metaphysical]] representation of human behavior as a whole and is worth study from more than a purely [[posts/Economics|economical]] perspective. 
 

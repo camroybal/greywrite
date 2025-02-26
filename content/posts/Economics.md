@@ -64,9 +64,12 @@ This pattern of thinking can go on and on. While this example is somewhat of a "
 And so, I am not free. 
 ## It's personal 
 
->"Why I was young, all I thought about was art and music. Now I'm 36, and all I think about is money.. - [My Dinner with Andre](https://www.imdb.com/title/tt0082783/characters/nm0001728?ref_=tt_mv_close)
+>*"Why I was young, all I thought about was art and music. Now I'm 36, and all I think about is money.." - [My Dinner with Andre](https://www.imdb.com/title/tt0082783/characters/nm0001728?ref_=tt_mv_close)*
 
 
 ![[posts/images/dinner-with-andre.png]]
+
+ 
+
 
 ---

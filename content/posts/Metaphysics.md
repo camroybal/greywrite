@@ -16,7 +16,7 @@ tags:
 
 ## Meta-Metaphysics of Metaphysics.. physics. 
 
-Metaphysics, there I said it again. It's just as hard to describe what "it" is or represents, as it is to [[Understanding|understand]] what the *purpose* of thinking is, in and of itself. 
+Metaphysics, there I said it again. It's just as hard to describe what "it" is or represents, as it is to [[thoughts/Understanding|understand]] what the *purpose* of thinking is, in and of itself. 
 
 Brutal. 
 
@@ -32,5 +32,13 @@ Moreover, the term metaphysics didn't always have the same *meaning* that it doe
 Here is how I wrap my head around it: We have a perfectly **good** model for the beginning of the universe. Correct? So far, we are pretty damn sure that all of creation sprung forth from "the big bang". Our modern day physics can carry us forward through all of time and space and matter and energy and any other such question about the substance/rules of reality, but those rules have to be afforded one single *miracle* at the very beginning in order to work. We can approximate the forces and systems that would have allowed for such an event, but we cannot explain the nature of the universe in its current form nor can we ideate its beginning using few, if any, of those rules. Thus, we are left with the "pre-physics" of our reality, and so far all way have is -questions-. 
 
 There. Done?
+
+### The Old World
+
+"Technically" metaphysics was being explored in Eastern cultures as far back as the the 7th Century BCE (as far as we can reliably tell anyways). 
+
+One of the more interesting works to come out of this period was [[The I Ching |"The I Ching"]]. 
+
+
 
 

@@ -4,6 +4,8 @@ date: 2025-01-11
 tags:
   - seed
 ---
+![[posts/images/emergence.png]]
+>*Created using Gemini 2.0_flash Imagen3
 ## e·mer·gence
 /əˈmərjəns/
 
