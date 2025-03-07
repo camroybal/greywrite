@@ -4,6 +4,8 @@ date: "2025-02-25"
 tags:
   - seed
 ---
+## Distinction
+
 I have discovered, at least in myself, a clear difference in the flow of my thoughts while typing vs handwriting. It is hard to put a finder on exactly *what* it is that makes the experience unique for each style of writing, yet each experience is distinct. 
 
 Having a note called "Handwriting" that explores the difference between handwritten and typed notes might imply that there is, or should be, a note titled "Typing" or "Computer input" etc. However, in this context, this note will serve as our sole repository for this thought. 

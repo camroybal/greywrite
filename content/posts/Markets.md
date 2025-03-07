@@ -13,7 +13,7 @@ Like may *interesting* [[thoughts/Words|words]] in the english language, its mea
 In a sense, these would all be relevant to the *ARCH Term* I am using for it here. Whereas, markets are a representation of a network. In particular, a network mapped over human behavior in exchanging resources, which is a key component in the assignment of the word "market", to this particular network. 
 
 To further abstract the concept, according to graph theory, any old [[posts/Systems Ontology|system]] is essentially made up of 2 parts: nodes and links. Any shape or function can be represented by these two parts. The determining factor in how to represent a particular shape or function, comes down to the relationships that the nodes have with each other and the *flow* of those interactions along their links. 
-#### Human beans...
+### Human beans...
 
 There are self balancing networks in the universe that (barring the removal of human behavior) would appear to behave similarly to a market. For example: Earths ecological systems that balance weather, resources, and biome characteristics to operate in a self reliant network. Though the *human element* adds a **thick** layer of complexity and is thus categorized separately. 
 
