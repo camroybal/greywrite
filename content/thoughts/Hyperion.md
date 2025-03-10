@@ -22,4 +22,6 @@ Five pilgrims on a trip to the mysterious planet called "Hyperion" to meet a god
 - Journal 3 - Martin Silenious: His story also tells of his upbringing. He is hundreds of years old in this book on account of being frozen before the "old earth" was destroyed. For someone who seems like a pompous and annoying character, you find that his life has had lots of ups and downs throughout his journey.  
 
 
+This book is good. 
+
 
