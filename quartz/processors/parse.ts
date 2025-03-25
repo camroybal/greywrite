@@ -12,7 +12,8 @@ import path from "path"
 import workerpool, { Promise as WorkerPromise } from "workerpool"
 import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
-import { BuildCtx } from "../util/ctx"
+import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
+import chalk from "chalk"
 
 export type QuartzProcessor = Processor<MDRoot, MDRoot, HTMLRoot>
 export function createProcessor(ctx: BuildCtx): QuartzProcessor {

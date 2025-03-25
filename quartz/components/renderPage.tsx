@@ -3,7 +3,8 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
-import { clone, FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import { clone } from "../util/clone"
 import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
@@ -55,20 +56,16 @@ export function pageResources(
         contentType: "external",
       },
     ],
+    additionalHead: staticResources.additionalHead,
   }
 }
 
-export function renderPage(
+function renderTranscludes(
+  root: Root,
   cfg: GlobalConfiguration,
   slug: FullSlug,
   componentData: QuartzComponentProps,
-  components: RenderComponents,
-  pageResources: StaticResources,
-): string {
-  // make a deep copy of the tree so we don't remove the transclusion references
-  // for the file cached in contentMap in build.ts
-  const root = clone(componentData.tree) as Root
-
+) {
   // process transcludes in componentData
   visit(root, "element", (node, _index, _parent) => {
     if (node.tagName === "blockquote") {
@@ -184,6 +181,19 @@ export function renderPage(
       }
     }
   })
+}
+
+export function renderPage(
+  cfg: GlobalConfiguration,
+  slug: FullSlug,
+  componentData: QuartzComponentProps,
+  components: RenderComponents,
+  pageResources: StaticResources,
+): string {
+  // make a deep copy of the tree so we don't remove the transclusion references
+  // for the file cached in contentMap in build.ts
+  const root = clone(componentData.tree) as Root
+  renderTranscludes(root, cfg, slug, componentData)
 
   // set componentData.tree to the edited html that has transclusions rendered
   componentData.tree = root
