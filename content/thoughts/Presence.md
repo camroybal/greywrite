@@ -1,0 +1,24 @@
+---
+title: Presence
+date: 2025-02-06
+tags:
+  - seed
+---
+#### The Food Trolly 
+``` poetry 
+In office February 6th 2024
+```
+Each day at precisely 1:30pm, Mountain Standard Time, in the primary cafe at my office, the culinary staff role out several carts filled with free to take "healthy snacks" and treats. For ten to fifteen minutes prior to this grand rollout, all manner of employees of all rank and specialty and from all corners of the campus, gather like cattle and wait to be fed. When I can spare the time, I will usually wait with them and hastily grab what I can among the many hands that reach in all at once. It's both exciting to participate in and odd to witness. It breaks the monotony of a day, and one can return to their own corner of the office and boastfully consume their well earned goods in front of their comrades. 
+
+During todays wait-for-the-food-trolly, I met up with an ex-trader colleague of mine named Marcus. We exchanged the normal pleasantries such as "hows life up in that office", "anything new on the trade floor?", etc. As we chatted we decided, why not wait together. The work based conversation quickly withered and he hastily asked how my wife was. I gave the culturally acceptable "she is good, hows yours?", and he returned a swift "she is good as well, man." I like Marcus, and I enjoyed having someone to wait for the cart with, so I asked him about his son. Last I had heard, his son was a handful. I cannot remember exactly how old he is, but he has to be solidly in his toddler years. Marcus's replies often surprise me, and his response was no exception; see, Marcus holds himself like an elite athlete. He played D1 basketball for CU and he still coaches the sport for high school aged kids. His brain is a strategic factory and his is far more observant than he lets on. So when you ask another man about his toddler son, you would almost expect an answer similar to how he answered about his work or about his wife. Simple, plain, "he is getting big", that type of thing. Marcus looks at me, dead in the eye, with a sort of casual focus and said, "My son is good, he is growing to be more articulate, and he cannot see time". 
+
+The last few words stuck out to me.  I asked back "What do you mean he cannot 'see' time?".
+He said, "My son is at the age where all things in his life are in the present. Any happiness, upset, discomfort, illness, sleepiness, hunger, and any other emotion is fixed in its solitary spot in his life. He has no anxiety or fear of the future, because for him time does not have a value and exists only as a number on my phone when I hold it up in front of his face. I try to live like my son, but I am constrained by the knowledge that my life is ruled by time and moves forward regardless of if I care about it or not." 
+
+This statement just about blew my face off as I waited for my free salted pretzels and fruit bars. Our discussion was instantly elevated to something much much deeper. I realized in a sort of jarring and awe inspiring way, that my life is also ruled by time. I think about the time at least 100 times a day. If I have something big coming up, my life is fixed to that vector in future time and all things scaffold backwards from it. The majority of my thoughts, even as I write this, are built from a blueprint containing: `X minutes until Y; "n" tasks must be completed within "i" minutes/hours/days; "foo" days until "bar" takes place at "baz" time`; and so on and so forth until all things in my experience universe are plotted, not plotted, or forgotten. 
+
+When I was a kid, I could be hanging out with a friend and having the best time of my life. Somewhere in my mind, I knew that the fun would end and I would have to go home, but that time had no affect on me. We had the most fun possible and spent zero energy attempting to measure it. When my mother would finally arrive to take me home, we would both let out an "aw maaaan", hang our heads, and depart. The fun ended, but it too had no effect on us. The time between going home and playing together again was not an object, so the ride home or the dinner with family after was contained in its own space; the ultimate "presence" and living in a moment as a consequence of not knowing or maybe not caring about the existence of time. 
+
+When a person says they are "living in the moment" are they simply relinquishing their hold on time, or have they found a way to let time relinquish its hold on them? I would like to live in the moment and I often tell myself that I "am". But, has any of that been real? My memories from the days *before* time existed are both clearer and more muddy. The more I dig for them, the more of them show up.
+
+How does a modern man learn to let time go? When I was a child, I was able to, simply out of ignorance, but as an adult; would anyone *truly* have that ability?
