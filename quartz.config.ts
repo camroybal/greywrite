@@ -2,13 +2,14 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "greywrite.com",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "greywrite.com",
-    ignorePatterns: ["private", "templates"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
@@ -61,7 +62,13 @@ const config: QuartzConfig = {
       }),
       Plugin.Poetry(),
       Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.SyntaxHighlighting(),
+      Plugin.SyntaxHighlighting({
+        theme: {
+          light: "github-light",
+          dark: "github-dark",
+        },
+        keepBackground: false,
+      }),
       Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: false,
         parseTags: false,
@@ -72,7 +79,6 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "absolute", lazyLoad: true }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

@@ -70,14 +70,16 @@ body[data-slug="thoughts/craft"] {
   .toc {
     grid-row: 3;
     grid-column: 1 / 3;
+    flex: none;
+    margin-top: auto;
   }
 
   .recent-notes:nth-last-child(2) {
-    grid-area: 3 / 1 / 3 / 3;
+    grid-area: 4 / 1 / 5 / 3;
   }
 
   .recent-notes:nth-last-child(1) {
-    grid-area: 4 / 1 / 4 / 3;
+    grid-area: 5 / 1 / 6 / 3;
   }
 
   @media all and ($mobile) {
@@ -135,7 +137,7 @@ audio::-webkit-media-controls-panel {
     --animation-name: fade;
   }
 
-  @for $i from 1 through 4 {
+  @for $i from 1 through 6 {
     @for $j from 1 through 8 {
       & > *:nth-child(#{$i}) > *:nth-child(#{$j}) {
         animation: var(--animation-name) 2s ease 1 normal backwards;
@@ -165,4 +167,3 @@ audio::-webkit-media-controls-panel {
     opacity: 1;
   }
 }
-
